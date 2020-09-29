@@ -1,3 +1,8 @@
+// Haotian Gan
+// Systems Level Programming
+// 09/28/2020
+// Work 02: Variables are the Spice of Life
+
 #include <stdio.h>
 
 int main(){
